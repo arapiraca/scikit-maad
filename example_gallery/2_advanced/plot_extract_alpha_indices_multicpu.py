@@ -243,6 +243,6 @@ if __name__ == '__main__':  # Multiprocessing should be declared under the main 
     ax.set_title("Comparison between sequential\n and parallel processing")
 
     fig.tight_layout()
-
+    plt.show()
 
     # %%
